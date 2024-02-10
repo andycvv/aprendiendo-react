@@ -1,6 +1,4 @@
-import { useEffect, useState } from 'react'
 import './App.css'
-import { getRandomFact } from './services/facts'
 import { useCatImage } from './hooks/useCatImage'
 import { useCatFact } from './hooks/useCatFact'
 import { Otro } from './components/Otro'
